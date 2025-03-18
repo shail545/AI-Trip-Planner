@@ -42,4 +42,4 @@ function MyTrips() {
   )
 }
 
-export default MyTrips
+export default MyTrips;
